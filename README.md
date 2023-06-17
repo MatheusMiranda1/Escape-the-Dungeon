@@ -16,6 +16,8 @@
 
 [![Video do Jogo](./docs/Screenshot_0.png)](./docs/Video%20de%20Demonstra%C3%A7%C3%A3o%20do%20jogo%20Escape%20the%20Dungeon.mkv)
 
+> Se o video não estiver tocando, clique nele e clique no view raw. Não se como concertar o problema.
+
 ### Prints de Demonstração
 
 <img src="./docs/Screenshot_1.png" alt="Escape the Dungeon 1">
@@ -33,6 +35,22 @@
 * **Animação:** Utilizada a tela de animator para animar os movimentos do zumbi (idle, run e attack);
 
 * **Iluminação:** Usada na tocha que o personagem principal usa para que ele possa ver melhor o que esta na sua frente;
+
+## Assets utilizados
+
+[Ultimate Low Poly Dungeon](https://assetstore.unity.com/packages/3d/environments/dungeons/ultimate-low-poly-dungeon-143535)
+
+> Usado para o mapa e para o personagem do jodador e como ele é controlado;
+
+[Zombie](https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232)
+
+> Usado para o zumbi e para as suas animações;
+
+## Problemas com o jogo conhecidos
+
+* **Falta de audio:** O jogo não possui nehuma forma de audio;
+
+* **Zumbis ficando presos nas paredes:** Não é dificil para os zumbis ficarem presos correndo nas paredes, especialmente o primeiro zumbi;
 
 ## Colaboradores
 

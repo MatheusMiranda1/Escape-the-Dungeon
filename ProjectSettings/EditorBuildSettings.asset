@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Game/Escape the Dungeon/Gameplay/Game.unity
+    path: Assets/Escape the Dungeon/Game/Game.unity
     guid: b94ee59f12f411f488e6df197429e012
   - enabled: 1
-    path: Assets/Game/Escape the Dungeon/Gameplay/Menu.unity
+    path: Assets/Escape the Dungeon/Game/Menu.unity
     guid: fd26a4c188280a54795daa8c721e499c
   m_configObjects: {}
