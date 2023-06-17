@@ -16,7 +16,7 @@
 
 [![Video do Jogo](./docs/Screenshot_0.png)](./docs/Video%20de%20Demonstra%C3%A7%C3%A3o%20do%20jogo%20Escape%20the%20Dungeon.mkv)
 
-> Se o video não estiver tocando, clique nele e clique no view raw. Não sei como consertar o problema.
+> Se o video não estiver tocando, clique nele e clique no view raw. Não sei como consertar o problema. Se precisar o video esta na pasta docs.
 
 ### Prints de Demonstração
 
